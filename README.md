@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Flutter, and Node.**
 
-- 👯 I’m looking to collaborate on **Large Scale Indie Games**
+- 👯 I’m looking to collaborate on **Large Scale Indie Games Using Godot, Unity, or Roblox Studio**
 
 - 👨‍💻 All of my projects are available at [isaackress.com](isaackress.com)
 
