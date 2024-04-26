@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **Large Scale Indie Games Using Godot, Unity, or Roblox Studio**
 
-- 👨‍💻 All of my projects are available at [isaackress.com](isaackress.com)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [isaackress.com](isaackress.com)
+- 📝 I regularly write articles on
 
-- 📫 How to reach me **isaackress@gmail.com**
+- 📫 How to reach me 
 
-- 📄 Know about my experiences [isaackress.com](isaackress.com)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
